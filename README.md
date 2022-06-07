@@ -13,14 +13,15 @@ SO THAT I can manage my time effectively
 ### Technology Used
 
 - JavaScript
+
   - Set up Jquery
   - Using moment()
-  - Using parsdInt()
-  - Using sibling()
-  - Modify classes with JQUERY
-  - Pull and push data from local storage
+  - Using siblings()
 
-## Features in Password Genarator
+  - Modify classes with JQUERY
+  - Get and Set data from local storage
+
+## Features in Work Day Scheduler
 
 ```md
 GIVEN I am using a daily planner to create a schedule
@@ -38,8 +39,15 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
+## Screenshots
+
+![alt text](./assets/screenshot/Screenshot1.png)
+![alt text](./assets/screenshot/Screenshot2.png)
+
 ## Links and Credits
 
-- [Sibling()](https://www.w3schools.com/jquery/jquery_traversing_siblings.asp)
-- [.click() jquery](https://api.jquery.com/click/)
-- [Using Math.random() in JavaScript](https://josephcardillo.medium.com/using-math-random-in-javascript-c49eff920b11)
+- [Sibling( )](https://www.w3schools.com/jquery/jquery_traversing_siblings.asp)
+- [.click( ) jquery](https://api.jquery.com/click/)
+- [Using Math.random( ) in JavaScript](https://josephcardillo.medium.com/using-math-random-in-javascript-c49eff920b11)
+- [set / get item from local storage](https://stackoverflow.com/questions/40791207/setting-and-getting-localstorage-with-jquery)
+- [.val( )](https://api.jquery.com/val/)
